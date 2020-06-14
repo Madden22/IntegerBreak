@@ -1,0 +1,13 @@
+C:\Users\Michael Madden\dotNet\C#\IntegerBreak\obj\Debug\netcoreapp3.1\IntegerBreak.csprojAssemblyReference.cache
+C:\Users\Michael Madden\dotNet\C#\IntegerBreak\obj\Debug\netcoreapp3.1\IntegerBreak.csproj.CoreCompileInputs.cache
+C:\Users\Michael Madden\dotNet\C#\IntegerBreak\obj\Debug\netcoreapp3.1\IntegerBreak.AssemblyInfoInputs.cache
+C:\Users\Michael Madden\dotNet\C#\IntegerBreak\obj\Debug\netcoreapp3.1\IntegerBreak.AssemblyInfo.cs
+C:\Users\Michael Madden\dotNet\C#\IntegerBreak\bin\Debug\netcoreapp3.1\IntegerBreak.exe
+C:\Users\Michael Madden\dotNet\C#\IntegerBreak\bin\Debug\netcoreapp3.1\IntegerBreak.deps.json
+C:\Users\Michael Madden\dotNet\C#\IntegerBreak\bin\Debug\netcoreapp3.1\IntegerBreak.runtimeconfig.json
+C:\Users\Michael Madden\dotNet\C#\IntegerBreak\bin\Debug\netcoreapp3.1\IntegerBreak.runtimeconfig.dev.json
+C:\Users\Michael Madden\dotNet\C#\IntegerBreak\bin\Debug\netcoreapp3.1\IntegerBreak.dll
+C:\Users\Michael Madden\dotNet\C#\IntegerBreak\bin\Debug\netcoreapp3.1\IntegerBreak.pdb
+C:\Users\Michael Madden\dotNet\C#\IntegerBreak\obj\Debug\netcoreapp3.1\IntegerBreak.dll
+C:\Users\Michael Madden\dotNet\C#\IntegerBreak\obj\Debug\netcoreapp3.1\IntegerBreak.pdb
+C:\Users\Michael Madden\dotNet\C#\IntegerBreak\obj\Debug\netcoreapp3.1\IntegerBreak.genruntimeconfig.cache
